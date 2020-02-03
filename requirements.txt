@@ -70,3 +70,4 @@ wadllib==1.3.3
 Werkzeug==0.16.0
 word2number==1.1
 zipp==2.1.0
+dbus-python==1.2.8
