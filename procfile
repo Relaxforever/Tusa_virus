@@ -1,2 +1,1 @@
-release: python3 tusa_virus/manage.py migrate
 web: gunicorn tusa_virus/tusa_virus.wsgi
