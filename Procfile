@@ -1,0 +1,1 @@
+web: gunicorn tusa_virus/tusa_virus.wsgi
